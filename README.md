@@ -1,4 +1,4 @@
-#About
+# About
 N.K Popup is a popup generator for use in YouTube video or Memes to generate
 popups with customizable properties. It can also generate multiple popups at once
 to replicate the scenario of multiple apps/programs going wrong.
@@ -9,7 +9,7 @@ to replicate the scenario of multiple apps/programs going wrong.
 
 ![Multiple Popups Generated with N.K](https://i.ibb.co/DpNDh7d/multiple-popups.png)
 
-#Features
+# Features
 * Fully customizable popup. List of customizable popup properties:
     * Popup window title
     * Popup message
